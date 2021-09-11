@@ -6,7 +6,7 @@
 
 ### About Me 🧑🏻‍💻
 I’m an aspiring full-stack front-end engineer. I was recently engaged in a 6-Month intensive coding program called 'AI Application SW Development and Data Analysis' at a coding academy called Encore Playdata in Seoul. 
-What I love about coding is that it's like putting puzzle pieces together. The sense of accomplishment I get when the last piece of puzzle is put together is what excites me and inpires me to keep going. With postivie and stick-to-it-ive attitude, I try my best to find solutions to any problems without giving up. I'm not afraid of facing new challenges and I'm always eager to learn more.
+What I love about coding is that it's like putting puzzle pieces together. The sense of accomplishment I get when the last piece of puzzle is put together is what excites me and inpires me to keep going. With positive and stick-to-it-ive attitude, I try my best to find solutions to any problems without giving up. I'm not afraid of facing new challenges and I'm always eager to learn more.
 
 #
 
@@ -32,6 +32,7 @@ Check out all my coding notes on my [Notion page](https://www.notion.so/Coding-S
 #
 
 ### Latest Project 🗺
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyun08231996&repo=Encore_Web_Project2_Onego)](https://github.com/hyun08231996/Encore_Web_Project2_Onego)
 Link to my most recent team project: [Onego](https://github.com/GeulReadyEditor/onego)
 https://github.com/GeulReadyEditor/onego
 

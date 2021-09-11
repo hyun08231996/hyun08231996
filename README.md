@@ -1,4 +1,4 @@
-![alt text](https://github.com/hyun08231996/hyun08231996/blob/main/Peter Nam_Banner.png?raw=true)
+![alt text](https://github.com/hyun08231996/hyun08231996/blob/main/Peter_Banner.png?raw=true)
 - 👋 Hi, I’m @hyun08231996
 - 👀 I’m interested in becoming a developer.
 - 🌱 I’m currently learning computer programming at a coding school called Playdata in Seoul. I have learned Java, RDBMS(MySQL), JDBC, Java ORM, Web[Servlet & JSP & HTML & CSS & JavaScript & AJAX & JQuery] so far. I am currently learning Web[BootStrap]. I am going to learn Web[Vue.js], Spring Framework, Spring Boot, Python, Data Processing, and AI next.

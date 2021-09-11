@@ -33,8 +33,6 @@ Check out all my coding notes on my [Notion page](https://www.notion.so/Coding-S
 
 ### Latest Project 🗺
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyun08231996&repo=Encore_Web_Project2_Onego)](https://github.com/hyun08231996/Encore_Web_Project2_Onego)
-Link to my most recent team project: [Onego](https://github.com/GeulReadyEditor/onego)
-https://github.com/GeulReadyEditor/onego
 
 <!---
 hyun08231996/hyun08231996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

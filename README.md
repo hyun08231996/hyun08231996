@@ -32,6 +32,7 @@ Check out all my coding notes on my [Notion page](https://www.notion.so/Coding-S
 #
 
 ### Latest Project 🗺
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyun08231996&repo=Self_MiniProject_mySurvey)](https://github.com/hyun08231996/Self_MiniProject_mySurvey)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyun08231996&repo=Encore_Web_Project2_Onego)](https://github.com/hyun08231996/Encore_Web_Project2_Onego)
 
 <!---

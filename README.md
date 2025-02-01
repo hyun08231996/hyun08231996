@@ -4,9 +4,12 @@
 
 #
 
-### About Me 🧑🏻‍💻
-I’m an aspiring full-stack front-end engineer. I was recently engaged in a 6-Month intensive coding program called 'AI Application SW Development and Data Analysis' at a coding academy called Encore Playdata in Seoul. 
-What I love about coding is that it's like putting puzzle pieces together. The sense of accomplishment I get when the last piece of puzzle is put together is what excites me and inpires me to keep going. With positive and stick-to-it-ive attitude, I try my best to find solutions to any problems without giving up. I'm not afraid of facing new challenges and I'm always eager to learn more.
+### **About Me 🧑🏻‍💻**  
+I’m an aspiring **full-stack front-end engineer** currently working as a **programmer/web developer** in Seoul. Previously, I completed a **6-month intensive coding program** in **AI Application Software Development and Data Analysis** at **Encore Playdata**, a coding academy in Seoul.  
+
+What I love most about coding is the **problem-solving aspect**—it feels like assembling a complex puzzle. The thrill of **fitting the final piece** and seeing everything come together fuels my passion and keeps me motivated.  
+
+With a **positive mindset and a determined attitude**, I tackle challenges head-on, always striving to find **creative and effective solutions** without giving up. I thrive on **new challenges** and am constantly seeking opportunities to **learn and grow**. 🚀
 
 #
 

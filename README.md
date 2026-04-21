@@ -1,4 +1,9 @@
-## Hi there 👋
+> [!IMPORTANT]  
+> ### This account is no longer used and has changed to @nsh0823.
+> 
+> ### Click below to go to my repo.
+> 
+> ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsh0823&theme=default)
 
 <!--
 **hyun08231996/hyun08231996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
